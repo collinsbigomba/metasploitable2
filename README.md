@@ -34,9 +34,20 @@ This Lab project aimed at gaining acess to http service that is active on the me
    <br>
      <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/meta2.png" /></br>
    </br>
+ <br>  use the command show options to see all the available options then set the RHOSTS to the target ip address you want to attack with the set RHOSTS command </br>
     <br>
      <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/meta3.png" /></br>
    </br>
+   <br>
+   Now u can type run to run the exploit and as you can see ive successully gained acess to the machine because im in the root directory and all files are similar
+   </br>
+   <br>
+     <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/meta4.png" /></br>
+   </br>
+<br>
+     <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/meta5.png" /></br>
+   </br>
+
 
 
 
