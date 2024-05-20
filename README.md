@@ -3,28 +3,31 @@
 ## Objective
 The goal is to gain access to port 80 (http) 
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This Lab project aimed at gaining acess to http service that is active on the metasploitable2 frame work 
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
+### Skills Learnt
+
+- Web Application security
+- Penetration Testing Methodologies like reconnaissance
+- Using penetration tools like nmap
+- Network fundamentals
+- Script writing and automation
 - Development of critical thinking and problem-solving skills in cybersecurity.
 
 ### Tools Used
-[Bullet Points - Remove this afterwards]
 
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
+- nmap
+- msfconsole
+- metasploitable2
 
 ## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
+ start metasploitabble2 in the terminal and find out its ip address using the command ip a
+ 
 
-Every screenshot should have some text explaining what the screenshot is about.
+
+
+
 
 Example below.
 
