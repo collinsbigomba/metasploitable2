@@ -31,7 +31,12 @@ This Lab project aimed at gaining acess to http service that is active on the me
   <br>
   use the command 'use 0' which will tell msfconsole that you want to use the exploit by highlighting it in red
   </br>
-
+   <br>
+     <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/meta2.png" /></br>
+   </br>
+    <br>
+     <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/meta3.png" /></br>
+   </br>
 
 
 
