@@ -23,6 +23,7 @@ This Lab project aimed at gaining acess to http service that is active on the me
 
 ## Steps
  start metasploitabble2 in the terminal and find out its ip address using the command ip a or ifconfig
+ <img src></img>
  
 
 
