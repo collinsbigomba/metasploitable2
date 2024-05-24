@@ -62,7 +62,12 @@ This Lab project aimed at gaining acess to http service that is active on the me
   <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm5.png" /></br>
 - Do the same by setting the RHOSTS and the USER_FILE which is a wordlist containing passwords and usernames
   <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm6.png" /></br>
+- As you can see the session is done 
   <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm7.png" /></br>
+- We can use netcat or smtp-user-enum tool to get more information about the server
+  <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm8.png" /></br>
+  <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm9.png" /></br>
+
 
 - 
 
