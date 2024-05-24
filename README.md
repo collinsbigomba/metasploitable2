@@ -50,7 +50,23 @@ This Lab project aimed at gaining acess to http service that is active on the me
    
 # Attacking port 25 on metasploitable2 using kali linux
 - Lets use nmap a little differently this time. SMTP usually runs on port 25, so lets look at that port specifically in the first instance.
-  <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/meta5.png" /></br>
+  <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm.png" /></br>
+- Start msfconsole and search for 'smtp_version'
+  <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm1.png" /></br>
+- use the exploit and set the RHOSTS to your target ip address
+  <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm2.png" /></br>
+  <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm3.png" /></br>
+- run the eploit
+  <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm4.png" /></br>
+- After the session is done, search for 'smtp_enum'
+  <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm5.png" /></br>
+- Do the same by setting the RHOSTS and the USER_FILE which is a wordlist containing passwords and usernames
+  <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm6.png" /></br>
+  <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/sm7.png" /></br>
+
+- 
+
+-
 
 
 
