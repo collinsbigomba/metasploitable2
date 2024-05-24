@@ -47,6 +47,11 @@ This Lab project aimed at gaining acess to http service that is active on the me
 <br>
      <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/meta5.png" /></br>
    </br>
+   
+# Attacking port 25 on metasploitable2 using kali linux
+- Lets use nmap a little differently this time. SMTP usually runs on port 25, so lets look at that port specifically in the first instance.
+  <br>  <img src="https://github.com/collinsbigomba/metasploitable2/blob/main/images/meta5.png" /></br>
+
 
 
 
